@@ -1,4 +1,4 @@
-# ![logo](https://github.com/Kostya0Sim/NTM-Space-DM/blob/main/pack.png) NTM Dark Mode
+# ![logo](https://github.com/Kostya0Sim/NTM-Space-DM/blob/main/pack.png) NTM: Space DM
 This resource pack changes the appearance of the [NTM: Space](https://www.curseforge.com/minecraft/mc-mods/ntm-space) GUI to the darker and less saturated tones like in a [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) resource pack.
 
 Features:
